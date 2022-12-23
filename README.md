@@ -10,7 +10,7 @@ You can add new or delete contacts,deals also can crate new deals associate with
 
 ## Usage
 - **Clone this repository**
-- **Prepare standard commands in Laravel(1. composer i , 2.php artisan key:generate)**
+- **Prepare standard commands in Laravel(1. composer i , 2. npm i, 3.php artisan key:generate, 4. php artisan serve 5. npm run dev)**
 - **After that go to ZOHO CRM and register your free akk https://www.zoho.com/crm/login.html**
 - **Next generate "Grand code" on ZOHO API  https://api-console.zoho.eu/**
 - **Select "Add client" and add "Self Client**
