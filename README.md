@@ -7,6 +7,7 @@
 
 Simple connect with Laravel 9 to ZOHO API CRM. 
 You can add new or delete contacts,deals also can crate new deals associate with contacts.
+php: 8.+, Laravel 9+
 
 ## Usage
 - **Clone this repository**
